@@ -1,2 +1,2 @@
-# APPDEV-108370
-Assignment A4c: GitHub and Markdown
+# Application Development Assignment A4
+Submitted by 108370
